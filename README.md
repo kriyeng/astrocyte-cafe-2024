@@ -3,7 +3,11 @@ David Ibáñez. April 2024. d.ibanez.nas@gmail.com
 Behavioral Neuroscience Student at UNED
 Presented at Astrocyte Cafe 2024
 
-# References
+## Model Videos:
+
+[Videos Performing inference](https://www.canva.com/design/DAGKfGbTLBI/OOHKr6m3et4P8z3tWanFSA/edit?utm_content=DAGKfGbTLBI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## References
 
 Andersson, M. S., & Hanse, E. (2011). Astrocyte-mediated short-term synaptic depression in the rat hippocampal CA1 area: two modes of decreasing release probability. BMC neuroscience, 12, 87. https://doi.org/10.1186/1471-2202-12-87
 
